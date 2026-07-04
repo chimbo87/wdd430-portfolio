@@ -4,8 +4,8 @@ A modern portfolio website built with Next.js 14, TypeScript, and Tailwind CSS. 
 
 ## 🚀 Live Demo
 
- 
-*Replace the URL above with your actual Vercel deployment URL*
+**Vercel Deployment:** (https://wdd430-portfolio-delta.vercel.app/)  
+
 
 ## 📋 Table of Contents
 - [Features](#features)
